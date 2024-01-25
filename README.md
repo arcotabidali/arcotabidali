@@ -86,3 +86,9 @@ As a backend developer with four years of experience, I've honed my skills in de
 - 📚 My notes of learning at [dinhanhthi.com](http://dinhanhthi.com/).
 - 😍 My hobbies are [drawing](https://photos.app.goo.gl/9OVEkdTjmtRPg7vC3), [reading](https://www.goodreads.com/user/show/19630622-thi-dinh) and [cooking](https://goo.gl/photos/yQXdQws1LLS16x5v5).
 - 💌 Contact me at [me@dinhanhthi.com](mailto:me@dinhanhthi.com).
+
+- <p align="center">   
+  <a href="mailto:dario.denardi@outlook.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=0078D4"></a>
+  <a href="https://linkedin.com/in/dario-denardi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0078D4"></a>
+    <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
+</p>
