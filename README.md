@@ -104,3 +104,8 @@ As a backend developer with four years of experience, I've honed my skills in de
 - 📧 How to reach me? **Connect to me via Email [Devesh](mailto:devdeveshsingh@gmail.com)**
 
 - ⚡ Fun fact: **I love to listen to music**
+
+- 
+I am a software engineer experienced in designing and building distributed, scalable systems using Go, Node.js, Python, and Java. My interest lies in microservices and software architecture. I am also an active contributor to the open-source world, where I enjoy collaborating and sharing knowledge. 
+
+<img align="right" src="https://camo.githubusercontent.com/97d0c0c4209208d8ec9573c7e213e05872a9f59b703868647b559b77af601cc6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" width='200'/> 
