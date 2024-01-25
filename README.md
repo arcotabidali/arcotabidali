@@ -92,3 +92,15 @@ As a backend developer with four years of experience, I've honed my skills in de
   <a href="https://linkedin.com/in/dario-denardi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0078D4"></a>
     <!--https://dev.to/envoy_/150-badges-for-github-pnk-->
 </p>
+
+<!-- - 💼 I’m currently working on [The Simon Game](https://github.com/Devesh-19/The-Simon-Game) -->
+
+- 💻 I’m currently learning about **Backend**
+
+- 🤜🏻🤛🏻 I’m looking to collaborate on **JavaScript based projects**
+
+- 💬 Ask me about **HTML , CSS, JavaScript, jQuery, Express.js, MongoDB**
+
+- 📧 How to reach me? **Connect to me via Email [Devesh](mailto:devdeveshsingh@gmail.com)**
+
+- ⚡ Fun fact: **I love to listen to music**
