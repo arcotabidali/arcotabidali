@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+![](https://github.com/arcotabidali/arcotabidali/header_.png)
 ### Hi there 👋
 
 <!--
@@ -81,12 +81,3 @@ As a backend developer with four years of experience, I've honed my skills in de
 <br><br>
 
 
-### 🔖 Holopins:
-  
-[![@amandewatnitrr's Holopin board](https://holopin.io/api/user/board?user=amandewatnitrr)](https://holopin.io/@amandewatnitrr)
-
-<br>  
-  
-![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
-  
-![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)
